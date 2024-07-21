@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+  Безумно быть первым
+  <img src="https://cdn.fishki.net/upload/users/2023/06/15/336305/5a37704927aa709b3f558d17e6032aa6.jpg" width="200"/>
   <div id="badges">
   <a href="https://t.me/Rogooo">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
