@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black&labelColor=red&color=white" alt="Codewars Badge"/>
   </a>
 </div>
+</div>
 
 ### :woman_technologist: About Me :
 
