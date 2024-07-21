@@ -10,7 +10,7 @@
 </div>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am a React, TS and NodeJS Developer from Russia, Saint P
 
