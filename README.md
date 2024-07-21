@@ -24,7 +24,6 @@ I am a React, TS and NodeJS Developer from Russia, Saint P
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<!-- Frontend Technologies -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -48,8 +47,6 @@ I am a React, TS and NodeJS Developer from Russia, Saint P
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testinglibrary/testinglibrary-original.svg" title="Testing library" alt="Testing library" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canvas/canvas-original.svg" title="Canvas" alt="Canvas" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lodash/lodash-original.svg" title="Lodash" alt="Lodash" width="40" height="40"/>&nbsp;
-
-<!-- Backend Technologies -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
