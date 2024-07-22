@@ -55,3 +55,8 @@ I am a React, TS and NodeJS Developer from Russia, Saint P
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Salimov-dev&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salimov-dev&theme=vision-friendly-dark&hide_border=true&utcOffset=0)](https://github.com/Salimov-dev/github-readme-stats)
+
+<div>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salimov-dev&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salimov-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/Salimov-dev/github-readme-stats)
+</div>
