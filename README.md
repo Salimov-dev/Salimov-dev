@@ -50,7 +50,7 @@ I am a React, TS, and NodeJS Developer from Russia, Saint P
 
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salimov-dev&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
 
-<div style="display: flex; gap: 10px; align-items: top">
+<div style="display: flex; gap: 10px; alignItems: top">
   <a href="https://github.com/Salimov-dev/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salimov-dev&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
   </a>
