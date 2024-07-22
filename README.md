@@ -19,6 +19,9 @@ I am a React, TS and NodeJS Developer from Russia, Saint P
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/Rogooo)
 
 ---
+<h4>⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
+
+<a href="https://www.codewars.com/users/Salimov%20Ruslan"><img src="https://www.codewars.com/users/Salimov%20Ruslan/badges/large" alt="Codewars stats"></a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -47,8 +50,3 @@ I am a React, TS and NodeJS Developer from Russia, Saint P
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salimov-dev&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salimov-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/Salimov-dev/github-readme-stats)
-
----
-<h4>⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
-
-<a href="https://www.codewars.com/users/Salimov%20Ruslan"><img src="https://www.codewars.com/users/Salimov%20Ruslan/badges/large" alt="Codewars stats"></a>
