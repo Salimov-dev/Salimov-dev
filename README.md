@@ -26,6 +26,7 @@ I am a React, TS and NodeJS Developer from Russia, Saint P
 
 ### :hammer_and_wrench: Languages and Tools :
 
+---
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
