@@ -21,6 +21,7 @@ I am a React, TS and NodeJS Developer from Russia, Saint P
 ---
 <h4>⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 <a href="https://www.codewars.com/users/Salimov%20Ruslan"><img src="https://www.codewars.com/users/Salimov%20Ruslan/badges/large" alt="Codewars stats"></a>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
