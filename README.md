@@ -58,9 +58,9 @@ I am a React, TS, and NodeJS Developer from Russia, Saint P
 
 <div style="display: flex; gap: 10px; align-tems: start">
   <a href="https://github.com/Salimov-dev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salimov-dev&layout=compact&theme=tokyo-night&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salimov-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Salimov-dev&theme=tokyo-night&hide_border=true" alt="GitHub Streak" width="49.7%" height="auto">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Salimov-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49.7%" height="auto">
   </a>
 </div>
