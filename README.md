@@ -56,7 +56,7 @@ I am a React, TS, and NodeJS Developer from Russia, Saint P
 <a> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salimov-dev&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph"></a>
 </div>
 
-<div style="display: flex; gap: 10px; align-tems: start">
+<div display="flex" alignItems="start">
   <a href="https://github.com/Salimov-dev/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salimov-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
   </a>
