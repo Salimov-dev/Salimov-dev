@@ -42,15 +42,25 @@ I am a React, TS, and NodeJS Developer from Russia, Saint P
 </div>
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salimov-dev&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/Salimov-dev/github-readme-stats)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salimov-dev&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salimov-dev&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salimov-dev&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salimov-dev&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.7%" height="264px !important">
   </a>
-  <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Salimov-dev&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" width="49.7%" height="auto">
+   <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight&hide_border=true">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight&hide_border=true" alt="Data on commits per day" width="49.7%" height="227px !important" marginBottom="-16px>
   </a>
 </div>
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700" style="border: 2px solid darkviolet; padding: 5px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля" width="800" style="border: 2px solid darkviolet; padding: 5px;">
+  </a>
+</p>
