@@ -43,7 +43,7 @@ I am a React, TS, and NodeJS Developer from Russia, Saint P
 
 ---
 
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center>
   <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salimov-dev&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
   <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salimov-dev&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
 </div>
