@@ -26,20 +26,42 @@ I am a React, TS, and NodeJS Developer from Russia, Saint P
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" title="AntDesign" alt="AntDesign" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux toolkit" alt="Redux toolkit" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="25">
+  <img src="https://img.shields.io/badge/CSS-282c34?logo=css3&logoColor=0396de" height="25">
+  <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
+  <img src="https://img.shields.io/badge/Zustand-282c34?logo=zustand" height="25">
+  <img src="https://img.shields.io/badge/Redux-282c34?logo=redux&logoColor=764abc" height="25">
+  <img src="https://img.shields.io/badge/Vue-282c34?logo=vue.js" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/Sass-282c34?logo=sass" height="25">
+  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
+  <img src="https://img.shields.io/badge/Antd-282c34?logo=antdesign&logoColor=0170fe" height="25">
+  <img src="https://img.shields.io/badge/Blueprint-282c34?logo=blueprint&logoColor=137cbd" height="25">
+  <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/JQuery-282c34?logo=jquery&logoColor=1163a4" height="25">
+  <img src="https://img.shields.io/badge/ThreeJS-282c34?logo=three.js" height="25">
+  <img src="https://img.shields.io/badge/SVG-282c34?logo=svg" height="25">
+  <img src="https://img.shields.io/badge/Pug-282c34?logo=pug" height="25">
+  <img src="https://img.shields.io/badge/JSON-282c34?logo=json" height="25">
+  <img src="https://img.shields.io/badge/YAML-282c34?logo=yaml&logoColor=cb171e" height="25">
+</p>
+
+<!-- <img src="https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=14" width="428"> -->
+
+#### Back-end
+
+<p>
+  <img src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" height="25">
+  <img src="https://img.shields.io/badge/Express-282c34?logo=express" height="25">
+  <img src="https://img.shields.io/badge/Serverless-282c34?logo=serverless" height="25">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="25">
+  <img src="https://img.shields.io/badge/GraphQL-282c34?logo=graphql&logoColor=de33a6" height="25">
+</p>
 
 ---
 
