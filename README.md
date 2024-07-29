@@ -31,16 +31,12 @@ I am a React, TS, and NodeJS Developer from Russia, Saint P
   <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=367fcf" height="25">
 </p>
 
-#### Frameworks
-
-<p>
- <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
-  <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="25">
-</p>
-
 #### Front-end
 
 <p>
+   <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
+  <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="25">
+    <br>
   <img src="https://img.shields.io/badge/Material%20UI-282c34?logo=mui&logoColor=007fff" height="25">
   <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="25">
   <img src="https://img.shields.io/badge/AntDesign-282c34?logo=antdesign&logoColor=0170fe" height="25">
