@@ -29,7 +29,6 @@ I am a React, TS, and NodeJS Developer from Russia, Saint P
 <p>
   <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
   <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=367fcf" height="25">
-  <img src="https://img.shields.io/badge/Python-282c34?logo=python" height="25">
 </p>
 
 #### Front-end
