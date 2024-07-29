@@ -27,40 +27,61 @@ I am a React, TS, and NodeJS Developer from Russia, Saint P
 ### :hammer_and_wrench: Languages and Tools :
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="25">
-  <img src="https://img.shields.io/badge/CSS-282c34?logo=css3&logoColor=0396de" height="25">
   <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
-  <img src="https://img.shields.io/badge/Zustand-282c34?logo=zustand" height="25">
-  <img src="https://img.shields.io/badge/Redux-282c34?logo=redux&logoColor=764abc" height="25">
-  <img src="https://img.shields.io/badge/Vue-282c34?logo=vue.js" height="25">
+  <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="25">
+  <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=3178c6" height="25">
   <br>
-  <img src="https://img.shields.io/badge/Sass-282c34?logo=sass" height="25">
-  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
-  <img src="https://img.shields.io/badge/Antd-282c34?logo=antdesign&logoColor=0170fe" height="25">
-  <img src="https://img.shields.io/badge/Blueprint-282c34?logo=blueprint&logoColor=137cbd" height="25">
+  <img src="https://img.shields.io/badge/Material%20UI-282c34?logo=mui&logoColor=007fff" height="25">
   <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="25">
+  <img src="https://img.shields.io/badge/AntDesign-282c34?logo=antdesign&logoColor=0170fe" height="25">
+  <img src="https://img.shields.io/badge/NextUI-282c34?logo=next.js" height="25">
+  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
   <br>
-  <img src="https://img.shields.io/badge/JQuery-282c34?logo=jquery&logoColor=1163a4" height="25">
-  <img src="https://img.shields.io/badge/ThreeJS-282c34?logo=three.js" height="25">
-  <img src="https://img.shields.io/badge/SVG-282c34?logo=svg" height="25">
-  <img src="https://img.shields.io/badge/Pug-282c34?logo=pug" height="25">
-  <img src="https://img.shields.io/badge/JSON-282c34?logo=json" height="25">
-  <img src="https://img.shields.io/badge/YAML-282c34?logo=yaml&logoColor=cb171e" height="25">
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-282c34?logo=redux&logoColor=764abc" height="25">
+  <img src="https://img.shields.io/badge/RTK%20Query-282c34?logo=redux&logoColor=764abc" height="25">
+  <img src="https://img.shields.io/badge/Zustand-282c34?logo=zustand" height="25">
+  <img src="https://img.shields.io/badge/MobX-282c34?logo=mobx&logoColor=ff9955" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-282c34?logo=react&logoColor=ec5990" height="25">
+  <img src="https://img.shields.io/badge/YUP-282c34?logo=yup" height="25">
+  <img src="https://img.shields.io/badge/React%20Router-282c34?logo=react-router&logoColor=ca4245" height="25">
+  <img src="https://img.shields.io/badge/React%20Table-282c34?logo=react&logoColor=61dafb" height="25">
+  <img src="https://img.shields.io/badge/React%20Yandex%20Maps-282c34?logo=yandex&logoColor=ff0000" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/WebSocket-282c34?logo=websocket" height="25">
+  <img src="https://img.shields.io/badge/Axios-282c34?logo=axios&logoColor=5a29e4" height="25">
+  <img src="https://img.shields.io/badge/Webpack-282c34?logo=webpack" height="25">
+  <img src="https://img.shields.io/badge/Lodash-282c34?logo=lodash" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/Jest-282c34?logo=jest&logoColor=c21325" height="25">
+  <img src="https://img.shields.io/badge/Testing%20Library-282c34?logo=testing-library&logoColor=e33332" height="25">
 </p>
-
-<!-- <img src="https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=14" width="428"> -->
 
 #### Back-end
 
 <p>
   <img src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" height="25">
   <img src="https://img.shields.io/badge/Express-282c34?logo=express" height="25">
-  <img src="https://img.shields.io/badge/Serverless-282c34?logo=serverless" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-282c34?logo=postgresql" height="25">
+  <img src="https://img.shields.io/badge/MongoDB-282c34?logo=mongodb" height="25">
+  <img src="https://img.shields.io/badge/Prisma-282c34?logo=prisma" height="25">
+  <img src="https://img.shields.io/badge/Sequelize-282c34?logo=sequelize" height="25">
+  <img src="https://img.shields.io/badge/Mongoose-282c34?logo=mongoose" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/Docker-282c34?logo=docker" height="25">
+  <img src="https://img.shields.io/badge/Nginx-282c34?logo=nginx" height="25">
+  <img src="https://img.shields.io/badge/Nodemailer-282c34?logo=nodemailer" height="25">
+  <img src="https://img.shields.io/badge/node--cron-282c34?logo=cron" height="25">
+  <img src="https://img.shields.io/badge/LDAP-282c34?logo=ldap" height="25">
 </p>
 
+#### Дополнительный стек
+
 <p>
-  <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="25">
-  <img src="https://img.shields.io/badge/GraphQL-282c34?logo=graphql&logoColor=de33a6" height="25">
+  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
+  <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25">
+  <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop&logoColor=31a8ff" height="25">
 </p>
 
 ---
